@@ -2,7 +2,7 @@
 
 int main() {
 
-   //dados da carta numeroo 1
+   //dados da carta numero 1
 
     char codigo1[4];
     int populacao1;
